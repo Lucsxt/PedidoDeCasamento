@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+// By Sandro Lucas...
+// For Nicole, my girlfriend!
+
 public class Pedido {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
