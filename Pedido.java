@@ -23,7 +23,7 @@ public class Pedido {
                     String resposta4 = scanner.nextLine();
 
                     if (resposta4.equalsIgnoreCase("sim")) {
-                        System.out.println("Então olha para o lado e aceite...");
+                        System.out.println("Então olha para o lado e aceite a aliança...");
                     } else {
                         System.out.println("Perdeu o presente");
                     }
